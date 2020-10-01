@@ -41,7 +41,7 @@ I'm a Self Taught Web-Developer.I love experimenting with new technologies and b
   
   - I fix Errors and Bugs By Hit & Trail Method Not Traditional Debugging ⚡
   
-  - I am Currently NightOwl Theme on Visual Studio Code
+  - Currently Using NightOwl Theme on Visual Studio Code
   
   
 
