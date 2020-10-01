@@ -7,6 +7,7 @@
 
 I'm a Self Taught Web-Developer.I love experimenting with new technologies and building  projects.
 
+- 🔭 Adrenaline Rush is I all I Crave For.
 - ☀️ Currently I'm Mastering My Front-End Skills And Machine Learning Concepts.
 - 👯 I’m looking to collaborate on Web-Development Projects Feel Free To Reach Out If You're Too.
 
@@ -20,7 +21,7 @@ I'm a Self Taught Web-Developer.I love experimenting with new technologies and b
 
  **Tools**
  
- <img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubuntu.svg"/>|<img alt="Fedora" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg"/>|<img alt="Git" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"/>|<img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg"/>|<img alt="Atom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atom.svg"/>
+ <img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubuntu.svg"/>|<img alt="Fedora" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg"/>|<img alt="Git" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"/>|<img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg"/>|<img alt="Atom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sublimetext.svg"/>|<img alt="Pycharm" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/PyCharm.svg"/>
 
 
 **Designing and Photo Editing**
@@ -39,6 +40,8 @@ I'm a Self Taught Web-Developer.I love experimenting with new technologies and b
   - While Coding, I usually Prefer Listening Music ⭐️
   
   - I fix Errors and Bugs By Hit & Trail Method Not Traditional Debugging ⚡
+  
+  - Coding Secrets Adrenaline Within Me and Adrenaline Rush I all I Crave For
   
 
   
