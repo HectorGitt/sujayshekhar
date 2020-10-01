@@ -1,4 +1,3 @@
-<img src='https://github.com/sujay-0202/sujay-0202/blob/master/image.jpg'  style='height :30 px;width : 30px;' alt='image'>
 
 <h1>Hi fella's 👋 This is Sujay Shekhar</h1>
 
