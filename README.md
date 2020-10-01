@@ -33,7 +33,7 @@ I'm a Self Taught Web-Developer.I love experimenting with new technologies and b
   <summary>Some interesting facts about me!</summary>
   <br>
   
-  - I'm a kinda PC Obssesed Guy.⭐️
+  - I'm kinda a PC Obssesed Guy.⭐️
   
   - Haven't Slept before 4 Am Since 3-4 Years 😄
   
@@ -41,7 +41,8 @@ I'm a Self Taught Web-Developer.I love experimenting with new technologies and b
   
   - I fix Errors and Bugs By Hit & Trail Method Not Traditional Debugging ⚡
   
-  - Coding Secrets Adrenaline Within Me and Adrenaline Rush I all I Crave For
+  - I am Currently NightOwl Theme on Visual Studio Code
+  
   
 
   
