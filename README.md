@@ -26,10 +26,10 @@ I am Self Taught Back-End Developer. I love experimenting with new technologies 
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 <p align="center">
-    <a href="https://twitter.com/_sujayshekhar?s=09">Twitter</a>
-  <a href="https://www.instagram.com/_sujaysinha" alt="Instagram">Instagram</a>
-    <a href="https://www.facebook.com/sujay.sinha.146/" alt="Facebook">Facebook</a>
-    <a href="https://github.com/sujay-0202" alt="GitHub">GitHub</a>
+    <a href="https://twitter.com/_sujayshekhar?s=09"><img src='https://github.com/sujay-0202/sujay-0202/blob/master/twitter.png' alt='Twitter'></a>
+  <a href="https://www.instagram.com/_sujaysinha" alt="Instagram"><img src='https://github.com/sujay-0202/sujay-0202/blob/master/insta.png' alt='Instagram'></a>
+    <a href="https://www.facebook.com/sujay.sinha.146/" alt="Facebook"><img src='https://github.com/sujay-0202/sujay-0202/blob/master/facebook.png' alt='Facebook'></a>
+    <a href="https://github.com/sujay-0202" alt="GitHub"><img src='https://github.com/sujay-0202/sujay-0202/blob/master/github.png' alt='GitHub'></a>
 </p>
   
 </p>
