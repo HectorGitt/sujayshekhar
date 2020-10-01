@@ -1,21 +1,38 @@
-<img src='https://avatars2.githubusercontent.com/u/63282830?s=400&u=0b687b44e83268e7273fa60701f6972711bd87aa&v=4' alt='image'>
+<img src='https://github.com/sujay-0202/sujay-0202/blob/master/image.jpg' alt='image' style='max-height :300 px; max-width : 300px;'>
 
 <h1>Hi there 👋 This is Sujay Shekhar</h1>
 
-I am Self Taught Back-End Developer. I love experimenting with new technologies and building small projects.
+I am Self Taught Back-End Developer. I love experimenting with new technologies and building  projects.
 
-- ☀️ Mastering My Front-End Skills ad Learning Machine Learning Concepts.
+- ☀️ Currently Mastering My Front-End Skills And Machine Learning Concepts.
 - ✍️ Writing tech blog posts over Internet.
 
+<hr>
+
+## My Skills :computer:
+
+ **Languages and Frameworks**
+
+<img alt="Python" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"/>|<img alt="HTML" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg"/>|<img alt="CSS" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg"/>|<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"/>|<img alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg"/>|<img alt="Bulma" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bulma.svg"/>|<img alt="tailwindcss" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg"/>
+
+ **Tools**
+ 
+ <img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubuntu.svg"/>|<img alt="Fedora" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg"/>|<img alt="Git" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"/>|<img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg"/>|<img alt="Atom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atom.svg"/>
+
+
+**Designing and Photo Editing**
+ 
+<img alt="Adobe Photoshop" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg"/>|<img alt="Adobe Lightroom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobelightroomcc.svg"/>|<img alt="Gimp" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gimp.svg"/>
+
+<hr>
 <details>
   <summary>Some interesting facts about me!</summary>
   <br>
-
-  - In mean time, I create visual and artistic images using photoshop.
-
-  - While Coding, Listening Music and developing useful code. ⭐️
-
+  
   - I'm a kinda PC Obssesed Guy.
+  
+  - While Coding, Listening Music and developing useful code. ⭐️
+  
 
   
 
