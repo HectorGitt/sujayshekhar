@@ -1,11 +1,14 @@
-<img src='https://github.com/sujay-0202/sujay-0202/blob/master/image.jpg' alt='image' style='max-height :300 px; max-width : 300px;'>
+<img src='https://github.com/sujay-0202/sujay-0202/blob/master/image.jpg'  style='height :30 px;width : 30px;' alt='image'>
 
 <h1>Hi there 👋 This is Sujay Shekhar</h1>
 
+![](https://visitor-badge.glitch.me/badge?page_id=sujay-0202) 
+
+
 I am Self Taught Back-End Developer. I love experimenting with new technologies and building  projects.
 
-- ☀️ Currently Mastering My Front-End Skills And Machine Learning Concepts.
-- ✍️ Writing tech blog posts over Internet.
+- ☀️ Currently I'm Mastering My Front-End Skills And Machine Learning Concepts.
+- 👯 I’m looking to collaborate on Web-Development Projects Feel Free To Reach Out If You're Too.
 
 <hr>
 
@@ -29,9 +32,13 @@ I am Self Taught Back-End Developer. I love experimenting with new technologies 
   <summary>Some interesting facts about me!</summary>
   <br>
   
-  - I'm a kinda PC Obssesed Guy.
+  - I'm a kinda PC Obssesed Guy.⭐️
   
-  - While Coding, Listening Music and developing useful code. ⭐️
+  - Haven't Slept before 4 Am Since 3-4 Years 😄
+  
+  - While Coding, I usually Prefer Listening Music ⭐️
+  
+  - I fix Errors and Bugs By Hit & Trail Method Not Traditional Debugging ⚡
   
 
   
