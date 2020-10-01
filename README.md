@@ -7,7 +7,7 @@
 
 I'm a Self Taught Web-Developer.I love experimenting with new technologies and building  projects.
 
-- 🔭 Adrenaline Rush is I all I Crave For.
+- 🔭 Adrenaline Rush is all I Crave For.
 - ☀️ Currently I'm Mastering My Front-End Skills And Machine Learning Concepts.
 - 👯 I’m looking to collaborate on Web-Development Projects Feel Free To Reach Out If You're Too.
 
