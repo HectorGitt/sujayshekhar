@@ -1,11 +1,11 @@
 <img src='https://github.com/sujay-0202/sujay-0202/blob/master/image.jpg'  style='height :30 px;width : 30px;' alt='image'>
 
-<h1>Hi there 👋 This is Sujay Shekhar</h1>
+<h1>Hi fella's 👋 This is Sujay Shekhar</h1>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sujay-0202) 
 
 
-I am Self Taught Back-End Developer. I love experimenting with new technologies and building  projects.
+I'm a Self Taught Web-Developer.I love experimenting with new technologies and building  projects.
 
 - ☀️ Currently I'm Mastering My Front-End Skills And Machine Learning Concepts.
 - 👯 I’m looking to collaborate on Web-Development Projects Feel Free To Reach Out If You're Too.
@@ -43,8 +43,8 @@ I am Self Taught Back-End Developer. I love experimenting with new technologies 
 
   
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=sujay-0202&show_icons=true)
 
+<img align="left" alt="sujay-0202's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujay-0202&show_icons=true&hide_border=true&theme=radical" />
 
 <hr>
 <p align="center">
