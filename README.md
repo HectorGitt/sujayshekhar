@@ -29,7 +29,7 @@ I'm a Self Taught Web-Developer.I love experimenting with new technologies and b
 <img alt="Adobe Photoshop" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg"/>|<img alt="Adobe Lightroom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobelightroomcc.svg"/>|<img alt="Gimp" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gimp.svg"/>
 
 <hr>
-<details>
+
   <summary>Some interesting facts about me!</summary>
   <br>
   
@@ -61,7 +61,7 @@ I'm a Self Taught Web-Developer.I love experimenting with new technologies and b
 </p>
   
 </p>
-</details>
+
 <!--
 **sujay-0202/sujay-0202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
