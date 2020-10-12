@@ -54,6 +54,7 @@ I'm a Self Taught Web-Developer.I love experimenting with new technologies and b
 <img align="left" alt="sujay-0202's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujay-0202&show_icons=true&hide_border=true&theme=radical" />
 
 <hr>
+<div>
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 <p align="center">
@@ -64,6 +65,7 @@ I'm a Self Taught Web-Developer.I love experimenting with new technologies and b
 </p>
   
 </p>
+<div>
 
 <!--
 **sujay-0202/sujay-0202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
