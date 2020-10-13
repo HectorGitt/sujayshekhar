@@ -49,10 +49,11 @@ I'm a Self Taught Web-Developer.I love experimenting with new technologies and b
   
 
   
+<div>
+<img align="right" alt="sujay-0202's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujay-0202&layout=compact" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujay-0202&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img align="left" alt="sujay-0202's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujay-0202&show_icons=true&hide_border=true&theme=radical" />
-
+</div>
 <hr>
 <div>
 <p align="center">
