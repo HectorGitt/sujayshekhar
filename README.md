@@ -1,7 +1,7 @@
 
 <h1>Hi fella's 👋 This is Sujay Shekhar</h1>
 
-![](https://img.shields.io/badge/Python-Developer-red) ![](https://visitor-badge.glitch.me/badge?page_id=sujay-0202) <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/sujay-0202/EcommerceWithDjango?style=plastic">
+![](https://img.shields.io/badge/Python-Developer-red) ![](https://visitor-badge.glitch.me/badge?page_id=sujay-0202)
 <img align='right' src="https://github.com/sujay-0202/sujay-0202/blob/master/IMG_20201010_214424.jpg" height="200">
 
 
