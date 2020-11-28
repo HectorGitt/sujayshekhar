@@ -25,7 +25,7 @@ I'm a Self Taught Web-Developer.I love experimenting with new technologies and b
 
 **Designing and Photo Editing**
  
-<img alt="Adobe Photoshop" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg"/> <img alt="Adobe Lightroom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobelightroomcc.svg"/> <img alt="Gimp" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gimp.svg"/>
+<img alt="Adobe Photoshop" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg"/> <img alt="Adobe Lightroom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeillustrator.svg"/> <img alt="Gimp" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gimp.svg"/>
 
 <hr>
 
