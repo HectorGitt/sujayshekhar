@@ -2,8 +2,6 @@
 <h1>Hi fella's 👋 This is Sujay Shekhar</h1>
 
 ![](https://img.shields.io/badge/Python-Developer-red) ![](https://visitor-badge.glitch.me/badge?page_id=sujay-0202)
-<img align='right' src="https://github.com/sujay-0202/sujay-0202/blob/master/readmePIC.png" height="200">
-
 
 I'm a Self Taught Web-Developer.I love experimenting with new technologies and building  projects.
 
