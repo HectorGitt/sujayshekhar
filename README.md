@@ -28,33 +28,6 @@ I'm a Self Taught Web-Developer.I love experimenting with new technologies and b
 <img alt="Adobe Photoshop" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg"/> <img alt="Adobe Lightroom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeillustrator.svg"/> <img alt="Gimp" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gimp.svg"/>
 
 <hr>
-
-  <summary>Some interesting facts about me!</summary>
-  <br>
-  
-  - I'm kinda a PC Obssesed Guy.⭐️
-  
-  - Adrenaline Rush is all I Crave For. 🔭
-  
-  - Haven't Slept before 4 Am Since 3-4 Years.😄
-  
-  - While Coding, I usually Prefer Listening Music.⭐️
-  
-  - Using Cobalt2 Theme on Visual Studio Code. 🤔
-  
-  - Errors and Bug Fix By Hit & Trail Method Not Traditional Debugging ⚡😄
-  
-  
-  
-  
-
-  
-<div align='center'>
-<img alt="sujay-0202's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujay-0202&layout=compact" />
-
-<img  alt="sujay-0202's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujay-0202&show_icons=true&hide_border=true&theme=radical" />
-</div>
-<hr>
 <div>
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
@@ -67,17 +40,3 @@ I'm a Self Taught Web-Developer.I love experimenting with new technologies and b
 </p>
 </div>
 
-<!--
-**sujay-0202/sujay-0202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
