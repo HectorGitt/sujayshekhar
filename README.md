@@ -28,7 +28,7 @@ I'm a Self Taught Web-Developer.I love experimenting with new technologies and b
 <hr>
 <div>
 <p align="center">
-  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+  <i>Let's connect and chat!</i>
 <p align='center'>
     <a href="https://twitter.com/_sujayshekhar?s=09"><img src='https://github.com/sujay-0202/sujay-0202/blob/master/twitter.png' alt='Twitter'></a>
     <a href="https://www.instagram.com/_sujaysinha" alt="Instagram"><img src='https://github.com/sujay-0202/sujay-0202/blob/master/insta.png' alt='Instagram'></a>
