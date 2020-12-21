@@ -5,7 +5,7 @@
 
 I'm a Self Taught Web-Developer.I love experimenting with new technologies and building  projects.
 
-- 👯 I’m looking to collaborate on Web-Development Projects Feel Free To Reach Out If You're Too.
+-  I’m looking to collaborate on Web-Development Projects Feel Free To Reach Out If You're Too.
 
 <hr>
 
