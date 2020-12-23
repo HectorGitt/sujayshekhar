@@ -3,11 +3,6 @@
 
 ![](https://img.shields.io/badge/Python-Developer-red) ![](https://visitor-badge.glitch.me/badge?page_id=sujay-0202)
 
-I'm a Self Taught Web-Developer.I love experimenting with new technologies and building  projects.
-
--  I’m looking to collaborate on Web-Development Projects Feel Free To Reach Out If You're Too.
-
-<hr>
 
 ## My Skills :computer:
 
