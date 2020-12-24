@@ -27,7 +27,7 @@
     <a href="https://twitter.com/_sujayshekhar?s=09"><img src='https://github.com/sujay-0202/sujay-0202/blob/master/twitter.png' alt='Twitter'></a>
     <a href="https://www.instagram.com/_sujaysinha" alt="Instagram"><img src='https://github.com/sujay-0202/sujay-0202/blob/master/insta.png' alt='Instagram'></a>
     <a href="https://www.facebook.com/sujay.sinha.146/" alt="Facebook"><img src='https://github.com/sujay-0202/sujay-0202/blob/master/facebook.png' alt='Facebook'></a>
-    <a href="https://github.com/sujay-0202" alt="GitHub"><img src='https://github.com/sujay-0202/sujay-0202/blob/master/github.png' alt='GitHub'></a>
+
 </p>
 </p>
 </div>
